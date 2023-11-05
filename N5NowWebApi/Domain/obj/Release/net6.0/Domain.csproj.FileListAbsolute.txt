@@ -1,0 +1,12 @@
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\bin\Release\net6.0\Domain.deps.json
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\bin\Release\net6.0\Domain.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\bin\Release\net6.0\Domain.pdb
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\refint\Domain.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\Domain.pdb
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\Domain\obj\Release\net6.0\ref\Domain.dll

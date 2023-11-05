@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DataAccess.EFCore</id>
+    <version>1.0.0</version>
+    <authors>DataAccess.EFCore</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.dll" target="lib\net6.0\DataAccess.EFCore.dll" />
+  </files>
+</package>

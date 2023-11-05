@@ -1,0 +1,6 @@
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\TestProject\bin\Release\net6.0\CoverletSourceRootsMapping
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\TestProject\obj\Release\net6.0\TestProject.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\TestProject\obj\Release\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\TestProject\obj\Release\net6.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\TestProject\obj\Release\net6.0\TestProject.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\TestProject\obj\Release\net6.0\TestProject.csproj.CoreCompileInputs.cache

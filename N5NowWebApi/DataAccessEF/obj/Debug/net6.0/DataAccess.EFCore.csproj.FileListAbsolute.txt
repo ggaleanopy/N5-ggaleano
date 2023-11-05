@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.deps.json
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.pdb
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\refint\DataAccess.EFCore.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.pdb
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\ref\DataAccess.EFCore.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\bin\Debug\net6.0\Domain.dll
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\bin\Debug\net6.0\Domain.pdb
+C:\Users\Gustavo\Documents\Gustavo\web3\N5 Now\N5NowWebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CopyComplete
